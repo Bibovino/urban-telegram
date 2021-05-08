@@ -4,6 +4,6 @@
 
 int main()
 {
-printf("I print Hello World in a intuitive way.\n");
+printf("I print Hello World in a intuitive way.\n")
 return 0;
 }
