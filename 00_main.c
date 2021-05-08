@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-// tracked with Jenkins.?
+// tracked with Jenkins.
 
 int main()
 {
-printf("I print Hello World.\n")
+printf("I print Hello World in a intuitive way.\n");
 return 0;
 }
